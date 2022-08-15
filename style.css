@@ -1,0 +1,40 @@
+body 
+{
+
+    font-family: 'Caveat', cursive;
+}
+
+h1{
+
+ font-size: 50px;
+
+}
+.anime
+{
+
+         color: red;
+
+
+}
+.highlight{
+ 
+      color: blue;
+}
+.half-width{
+
+     width: 40%;
+     float:left;
+     margin: 5%;
+     padding:2%;
+
+
+}
+
+
+
+.half-width-img{
+
+        width:100%;
+
+
+}
